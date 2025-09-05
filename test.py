@@ -1,5 +1,4 @@
-print("hello python world") 
+print("hello java world") 
 a=10
 b=90
-add=a+b
-print(add)
+print(a+b)
